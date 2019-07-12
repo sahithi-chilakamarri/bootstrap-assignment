@@ -1,0 +1,98 @@
+nav {
+                 /* Style of navigation bar*/
+                 position: fixed;
+             }
+             
+             .navbar-brand img {
+                 /*logo style*/
+                 height: 6rem;
+                 width: 6rem;
+             }
+             
+             .navbar li {
+                 </*Styling the list in navbar*/
+                 list-style: none;
+                 font-size: 1.5rem;
+                 padding: 1rem;
+             }
+             
+             .nav-link {
+                 display: inline;
+                 padding: 1rem;
+             }
+             
+             .container img {
+                 height: 45rem;
+                 width: 100%;
+               padding-top:130px;
+             }
+             
+             .dropdown .dropdown-toggle {
+                 color: rgba(255, 255, 255, .5);
+             }
+             
+             .dropdown a {
+                 text-decoration: none;
+                 display: block;
+                 padding: .5rem 1rem;
+             }
+             
+             .carousel {
+                 padding: 60px;
+                 width: 100%;
+               
+             }
+             
+             #row0 {
+                 padding-top: 0%;
+                 margin: auto;
+                 padding: 5px;
+             }
+             
+             #row1 {
+                 height: 30rem;
+                 align-content: justify;
+                 padding-top: 0%;
+                 padding: justify;
+             }
+             
+             #col1 {
+                 background-color: maroon;
+                 color: white;
+                 font-family: 'Montserrat', sans-serif;
+             }
+             
+             .jumbotron p {
+                 text-color: pink
+             }
+             
+             .col-lg-4 img {
+                 width: 19rem;
+                 height: 17rem;
+             }
+             
+             .col-lg-4 p {
+                 text-align: justify;
+             }
+             
+             .col-lg-4 button {
+                 float: right;
+             }
+             
+             .col-lg-4 iframe {
+                 height: 260px;
+             }
+             
+             .footer {
+                 background-color: lightgrey;
+                 height: 5rem;
+                 width: 100%;
+                 font-size: 20px;
+                 display: block;
+             }
+             
+             .footer i {
+                 font-size: 36px;
+                 float: right;
+                 padding: 0.5rem 0.5rem;
+             }
